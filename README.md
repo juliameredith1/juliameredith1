@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juliameredith1
 - 👀 I’m interested in business analytics and marketing.
-- 🌱 I’m currently learning how to use Spyder.
 - 💞️ I’m looking to collaborate on projects involving business analytics.
 - 📫 How to reach me julia-meredith@uiowa.edu
 
