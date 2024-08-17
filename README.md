@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliameredith1
 - 👀 I’m interested in business analytics and marketing.
-- 💞️ I’m looking to grow my professional experience in business analytics.
+- 💞️ I’m looking to grow my professional experience.
 - 📫 How to reach me: juliameredith00@gmail.com
 
 <!---
